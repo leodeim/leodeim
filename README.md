@@ -1,4 +1,2 @@
-# Leo
-
 Building things.
 
